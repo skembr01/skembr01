@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @skembr01
+- 👋 Hi, I’m Sam, @skembr01
 - 👀 I’m interested in data science, machine learning, deep learning, and python
 - 🌱 I’m currently learning data science at University of Colorado Boulder
-- 💞️ I’m looking to collaborate on data science projects related to research and/or machine learning, with a focus on psychology research
+- 💞️ I’m looking to collaborate on data science projects dealing with data science and machine learning, with a focus on psychological or climate science research
 - 📫 How to reach me: samembry7@gmail.com
 
 <!---
