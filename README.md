@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam, @skembr01
-- 👀 I’m interested in data science, machine learning, deep learning, and python
-- 🌱 I will finish with a M.S. in Data Science at Colorado Boulder in May 2020.
+- 👀 I am currently working as a Data Science Intern
+- 🌱 I will graduate with my MS in Data Science from CU Boulder in May 2023
 - 📫 How to reach me: samembry7@gmail.com
 
 <!---
